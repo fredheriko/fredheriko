@@ -1,6 +1,6 @@
 📣 Olá tudo jóia contigo? Me chamo Frederico Bezerra!
 
-✔️Tenho 35 anos e trabalho com grandes eventos.
+📑 Qualified to give good results.
 
 👨‍💻 Atualmente estudando Java para trabalhar com BackEnd.
 
