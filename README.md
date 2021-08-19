@@ -1,10 +1,10 @@
-📣 Olá tudo jóia contigo? Me chamo Frederico Bezerra!
+📣 Olá tudo jóia contigo? Me chamo Frederico Bezerra! / Hello how area you? My name is Frederico Bezerra!
 
-📑 Qualified to give good results.
+📑 Sempre em busca de ótimos resultados / Qualified to give good results.
 
-👨‍💻 Atualmente estudando Java para trabalhar com BackEnd.
+👨‍💻 Atualmente estudando Java para trabalhar com BackEnd / I'm currently looking for an internship in the area. As for hard skills, I'm studying JAVA.
 
-📧 Meu email - fredheriko@hotmail.com
+📧 Meu e-mail / Mail - fredheriko@hotmail.com
 
 <div> 
   <a href="https://instagram.com/fredheriko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
